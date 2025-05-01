@@ -66,6 +66,12 @@ To use the API, you need an API key. Follow these steps to obtain one:
 ## 🚀 Deploy on Heroku 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CyberPixelPro/AviaxMusic)
 
+<p align="center">
+    <a href="https://render.com/deploy?repo=https://github.com/Zenaku550/AviaxMusic">
+        <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" width="220" height="38.45"/>
+    </a>
+
+
 ---
 
 ### 🔧 Quick Setup
